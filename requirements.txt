@@ -1,6 +1,6 @@
 aiogram==3.13.1
 sentence-transformers==3.2.1
-torch==2.4.0+cpu
+torch>=2.5.0
 onnxruntime==1.19.2
 numpy==1.26.4
 aiohttp==3.9.5
