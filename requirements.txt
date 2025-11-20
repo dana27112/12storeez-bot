@@ -1,4 +1,6 @@
 aiogram==3.13.1
-fastembed==0.3.3
+sentence-transformers==3.2.1
+torch==2.4.0+cpu
+onnxruntime==1.19.2
 numpy==1.26.4
 aiohttp==3.9.5
